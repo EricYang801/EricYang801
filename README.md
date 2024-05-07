@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric_Yang</h1>
-<h3 align="center">一個對資訊工程系特別感興趣的人，但我在生命科學系😭</h3>
+<h3 align="center">一個對資訊特別感興趣的人，但我在生命科學系😭</h3>
 
 - 🌱 最近在學習 **Python, Deep Learning, HTML, React, Blender**  
 
