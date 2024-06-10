@@ -8,5 +8,7 @@
 <a href="https://github.com/EricYang801/github-readme-stats">
 <img height=150 width=400 src="https://github-readme-activity-graph.vercel.app/graph?username=EricYang801&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/></a>
 <a href="https://github.com/EricYang801/github-readme-stats">
-<img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EricYang801&theme=github"/></a>
+<img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EricYang801&theme=github"/></a>
+
+
 </p>
