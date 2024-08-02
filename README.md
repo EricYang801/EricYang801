@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Eric_Yang</h1>
-<h3 align="center">一個對資訊特別感興趣的人，但我在生命科學系😭</h3>
+![https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eric_Yang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62](https://capsule-render.vercel.app/api?type=waving&height=300&color=2C2C2C&text=Eric_Yang&fontColor=C7C7C7&textBg=false&fontSize=75&fontAlign=53&animation=fadeIn&desc=It's%20time%20to%20go%20to%20bed&fontAlignY=40&descAlign=52)
 
-- 🌱 最近在學習 **Python, Deep Learning, HTML, React, Blender**  
+# About me  
+* 👂 My name is Eric_Yang
+* 👩 Pronouns: he/him
+* 🔭 I’m currently studying at NCHU Life Sciences
+* 🌱 I’m currently learning Python Swift Blender C++ React Pytorch 
+* 🤝 I’m looking to collaborate on AI
+* ⚡ Fun fact: somehow I'm still single
+
+# Tool I used
+
+<img src="https://code.visualstudio.com/assets/apple-touch-icon.png" width="45" height="45" alt="vscode icon">
 
 
-<p align='center'>
-<a href="https://github.com/EricYang801/github-readme-stats">
-<img height=150 width=400 src="https://github-readme-activity-graph.vercel.app/graph?username=EricYang801&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/></a>
-<a href="https://github.com/EricYang801/github-readme-stats">
-<img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EricYang801&theme=github"/></a>
 
 
-</p>
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=2C2C2C&fontColor=C7C7C7&textBg=false&fontSize=75&fontAlign=53&animation=fadeIn&fontAlignY=40&descAlign=52&section=footer)
