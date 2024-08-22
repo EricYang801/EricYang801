@@ -27,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <h3>Database</h3>
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=2C2C2C&fontColor=C7C7C7&textBg=false&fontSize=75&fontAlign=53&animation=fadeIn&fontAlignY=40&descAlign=52&section=footer)
