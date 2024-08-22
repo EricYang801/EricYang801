@@ -8,11 +8,26 @@
 * 🤝 I’m looking to collaborate on AI
 * ⚡ Fun fact: Somehow I'm still single
 
-# Tool I used
+<!-- IDE Used -->
+<h2 align="center">🛠 &nbsp;IDEs I Use</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</div>
 
-<img src="https://code.visualstudio.com/assets/apple-touch-icon.png" width="45" height="45" alt="vscode icon">
-
-
-
+<!-- Languages -->
+<h2 align="center">💻 &nbsp;Languages anf Frameworks I Use</h2>
+<div align="center">
+  <h3>Frontend Development</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <h3>Machine Learning / Deep Learning</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+  <h3>Backend Development</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <h3>Database</h3>
+</div>
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=2C2C2C&fontColor=C7C7C7&textBg=false&fontSize=75&fontAlign=53&animation=fadeIn&fontAlignY=40&descAlign=52&section=footer)
