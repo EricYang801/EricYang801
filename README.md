@@ -6,7 +6,6 @@
 * 🔭 I’m currently studying at NCHU Life Sciences
 * 🌱 I’m currently learning Python Swift Blender C++ React Pytorch 
 * 🤝 I’m looking to collaborate on AI
-* ⚡ Fun fact: Somehow I'm still single
 
 <!-- IDE Used -->
 <h2 align="center">🛠 &nbsp;IDEs I Use</h2>
