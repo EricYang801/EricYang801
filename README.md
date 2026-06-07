@@ -1,41 +1,49 @@
 <div align="center">
-<img src="https://memeprod.ap-south-1.linodeobjects.com/user-gif-post/1762251352779.gif" align="center" style="width: 100%" />
-</div>  
-  
+  <img width="100%" src="https://memeprod.ap-south-1.linodeobjects.com/user-gif-post/1762251352779.gif" alt="Profile GIF" />
+</div>
 
-### <div align="center">I'm Eric Yang, a student studying Life Sciences at National Chung Hsing University.</div>  
-  
+<h1 align="center">Hi, I'm Eric Yang</h1>
 
-- I’m currently working on [Launchpad_Back](https://github.com/EricYang801/Launchpad_Back) & [NCHU_Course_Selector](https://github.com/EricYang801/NCHU_Course_Selector).  
-  
+<h3 align="center">Life Sciences Student at National Chung Hsing University | Developer | Photography Learner</h3>
 
-- I'm currently learning photography.  
-  
+<div align="center">
+  <a href="https://github.com/EricYang801">
+    <img src="https://komarev.com/ghpvc/?username=EricYang801&style=flat-square&color=0ea5e9" alt="Profile views" />
+  </a>
+</div>
 
-- Fun fact: I tired everyday.  
-  
+## About Me
 
-<br/>  
+I'm Eric Yang, a Life Sciences student at National Chung Hsing University who enjoys building software, learning new tools, and exploring photography.
 
+- Currently building [Launchpad_Back](https://github.com/EricYang801/Launchpad_Back) and [NCHU_Course_Selector](https://github.com/EricYang801/NCHU_Course_Selector)
+- Learning photography and improving my full-stack development workflow
+- Interested in practical tools, campus systems, and clean user experiences
 
-## My Skill Set  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" alt="Swift" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-</div>  
+## Featured Projects
 
-[![EricYang801's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricYang801&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| Launchpad_Back | NCHU_Course_Selector |
+| --- | --- |
+| <a href="https://github.com/EricYang801/Launchpad_Back"><img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=EricYang801&repo=Launchpad_Back&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=22C55E" alt="Launchpad_Back repository card" /></a> | <a href="https://github.com/EricYang801/NCHU_Course_Selector"><img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=EricYang801&repo=NCHU_Course_Selector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F59E0B" alt="NCHU_Course_Selector repository card" /></a> |
 
----
-<div align="center">  
+## Tech Stack
 
-![Profile Views Counter](https://komarev.com/ghpvc/?username=EricYang801&style=for-the-badge)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,flutter,swift,figma,git,r&perline=10" alt="Skill icons" />
+</div>
+
+## GitHub Stats
+
+| Stats | Streak |
+| --- | --- |
+| <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EricYang801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F59E0B" alt="Eric Yang GitHub stats" /> | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=EricYang801&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=22C55E" alt="Eric Yang GitHub streak" /> |
+
+| Languages | Productive Time |
+| --- | --- |
+| <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EricYang801&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Eric Yang top languages" /> | <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EricYang801&theme=tokyonight&utcOffset=8" alt="Eric Yang productive time card" /> |
+
+## Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EricYang801&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=F59E0B" alt="Eric Yang GitHub activity graph" />
 </div>
