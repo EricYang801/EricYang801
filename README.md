@@ -42,9 +42,10 @@ I'm Eric Yang, a Life Sciences student at National Chung Hsing University who en
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EricYang801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F59E0B" alt="Eric Yang GitHub stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=EricYang801&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=22C55E" alt="Eric Yang GitHub streak" />
-  <br>
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EricYang801&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Eric Yang top languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EricYang801&theme=tokyonight&utcOffset=8" alt="Eric Yang productive time card" />
 </p>
 
 ## Activity
