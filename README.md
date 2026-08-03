@@ -44,7 +44,3 @@ I'm Eric Yang, a Life Sciences student at National Chung Hsing University who en
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=EricYang801&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=22C55E" alt="Eric Yang GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EricYang801&theme=tokyonight" alt="Eric Yang top languages by commit" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EricYang801&theme=tokyonight&utcOffset=8" alt="Eric Yang productive commit time in UTC+8" />
-</p>
